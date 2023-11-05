@@ -1,0 +1,37 @@
+measure,location,sex,age,cause,metric,year,val,upper,lower
+Prevalence,Global,Both,All ages,Depressive disorders,Number,2019,279606278.7362195,310265982.8755903,251599223.30937046
+Prevalence,Global,Both,All ages,Depressive disorders,Percent,2019,0.03757803093924553,0.04169862541145138,0.03377617920738752
+Prevalence,Global,Both,All ages,Depressive disorders,Rate,2019,3613.6679437862626,4009.917951172321,3251.701113666081
+Prevalence,Global,Both,All ages,Autism spectrum disorders,Number,2019,28324938.64773063,33811271.08414722,23500643.583813794
+Prevalence,Global,Both,All ages,Autism spectrum disorders,Percent,2019,0.0038067581103415557,0.004544471842186432,0.003150677392855769
+Prevalence,Global,Both,All ages,Autism spectrum disorders,Rate,2019,366.07519424690844,436.98126883165367,303.72537684424117
+Prevalence,Alagoas,Both,All ages,Depressive disorders,Number,2019,159872.09941006592,177001.73594483885,144739.78004379777
+Prevalence,Alagoas,Both,All ages,Depressive disorders,Percent,2019,0.045798891175136365,0.0506004151070592,0.041494962495287904
+Prevalence,Alagoas,Both,All ages,Depressive disorders,Rate,2019,4367.71888052372,4835.701956904874,3954.302673155126
+Prevalence,Brazil,Both,All ages,Attention-deficit/hyperactivity disorder,Number,2019,3953653.6040583514,5439649.162294643,2880448.4281178946
+Prevalence,Brazil,Both,All ages,Attention-deficit/hyperactivity disorder,Percent,2019,0.01896763842907329,0.026124153680646505,0.013837088919805791
+Prevalence,Brazil,Both,All ages,Attention-deficit/hyperactivity disorder,Rate,2019,1824.77880786685,2510.628777239592,1329.4491058568058
+Prevalence,Global,Both,All ages,Anxiety disorders,Number,2019,301390390.8486138,356004349.12585795,252625879.0006677
+Prevalence,Global,Both,All ages,Anxiety disorders,Percent,2019,0.04050554870496629,0.047799741215632546,0.03393756944867855
+Prevalence,Global,Both,All ages,Anxiety disorders,Rate,2019,3895.2086444465303,4601.046550525684,3264.969745464033
+Prevalence,Global,Both,All ages,Attention-deficit/hyperactivity disorder,Number,2019,84708968.8131143,111261924.07716788,62461820.56399702
+Prevalence,Global,Both,All ages,Attention-deficit/hyperactivity disorder,Percent,2019,0.011384385464781864,0.01494872276209206,0.008392525942397273
+Prevalence,Global,Both,All ages,Attention-deficit/hyperactivity disorder,Rate,2019,1094.7897398252833,1437.963590155818,807.264699858855
+Prevalence,Alagoas,Both,All ages,Autism spectrum disorders,Number,2019,12785.23890112865,15490.863895507737,10395.485745074506
+Prevalence,Alagoas,Both,All ages,Autism spectrum disorders,Percent,2019,0.003662599763810916,0.004433383242818696,0.0029834082222549674
+Prevalence,Alagoas,Both,All ages,Autism spectrum disorders,Rate,2019,349.2937763782814,423.2116733419986,284.00552396898297
+Prevalence,Brazil,Both,All ages,Anxiety disorders,Number,2019,17319782.166959174,20262798.306477692,14787121.762575805
+Prevalence,Brazil,Both,All ages,Anxiety disorders,Percent,2019,0.0830929078806749,0.09693668541565892,0.07096683701211579
+Prevalence,Brazil,Both,All ages,Anxiety disorders,Rate,2019,7993.813980743173,9352.140738831169,6824.883797102823
+Prevalence,Alagoas,Both,All ages,Anxiety disorders,Number,2019,281231.32507992105,331788.6586462532,239745.53293439018
+Prevalence,Alagoas,Both,All ages,Anxiety disorders,Percent,2019,0.08056365643450825,0.09516721017020302,0.06867413588542601
+Prevalence,Alagoas,Both,All ages,Anxiety disorders,Rate,2019,7683.2628887647925,9064.493392282538,6549.8676415881655
+Prevalence,Alagoas,Both,All ages,Attention-deficit/hyperactivity disorder,Number,2019,75606.7709576299,103977.94782452304,54892.689444340875
+Prevalence,Alagoas,Both,All ages,Attention-deficit/hyperactivity disorder,Percent,2019,0.021658044245092826,0.029930770380042226,0.015743763371153883
+Prevalence,Alagoas,Both,All ages,Attention-deficit/hyperactivity disorder,Rate,2019,2065.583189472274,2840.6860705970394,1499.6727820143776
+Prevalence,Brazil,Both,All ages,Depressive disorders,Number,2019,8931544.576414108,9792301.521423712,8149873.499023583
+Prevalence,Brazil,Both,All ages,Depressive disorders,Percent,2019,0.04285000694308606,0.047009005010509315,0.039153585612300056
+Prevalence,Brazil,Both,All ages,Depressive disorders,Rate,2019,4122.286597851889,4519.562431618775,3761.512245925729
+Prevalence,Brazil,Both,All ages,Autism spectrum disorders,Number,2019,749431.3437094294,900974.1491086922,618421.7520979916
+Prevalence,Brazil,Both,All ages,Autism spectrum disorders,Percent,2019,0.0035954791440667936,0.004313454051550159,0.0029598494481035535
+Prevalence,Brazil,Both,All ages,Autism spectrum disorders,Rate,2019,345.89434758482207,415.8377790208511,285.42786510025434
