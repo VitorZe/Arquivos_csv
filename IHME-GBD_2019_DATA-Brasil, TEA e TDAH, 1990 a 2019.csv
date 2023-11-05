@@ -1,0 +1,181 @@
+measure,location,sex,age,cause,metric,year,val,upper,lower
+Prevalence,Brazil,Both,All ages,Attention-deficit/hyperactivity disorder,Number,1990,3344401.948409449,4536234.098103678,2402475.668549065
+Prevalence,Brazil,Both,All ages,Attention-deficit/hyperactivity disorder,Percent,1990,0.023472920447548767,0.03191450025330206,0.016858336979740714
+Prevalence,Brazil,Both,All ages,Attention-deficit/hyperactivity disorder,Rate,1990,2247.045592251136,3047.8169169859752,1614.1816817416984
+Prevalence,Brazil,Both,All ages,Attention-deficit/hyperactivity disorder,Number,1991,3318229.150136098,4465063.963260921,2393649.6093683257
+Prevalence,Brazil,Both,All ages,Attention-deficit/hyperactivity disorder,Percent,1991,0.022919839800381026,0.03082162219922668,0.016548166411404174
+Prevalence,Brazil,Both,All ages,Attention-deficit/hyperactivity disorder,Rate,1991,2192.067189927803,2949.681824834738,1581.2774029378293
+Prevalence,Brazil,Both,All ages,Attention-deficit/hyperactivity disorder,Number,1992,3297841.533292945,4452327.159495908,2385242.693027594
+Prevalence,Brazil,Both,All ages,Attention-deficit/hyperactivity disorder,Percent,1992,0.022420058006325513,0.0302050669941215,0.016223502237496554
+Prevalence,Brazil,Both,All ages,Attention-deficit/hyperactivity disorder,Rate,1992,2142.5963323122646,2892.661683675515,1549.6839960810755
+Prevalence,Brazil,Both,All ages,Attention-deficit/hyperactivity disorder,Number,1993,3287756.9640133716,4456380.050146529,2380198.81017689
+Prevalence,Brazil,Both,All ages,Attention-deficit/hyperactivity disorder,Percent,1993,0.022002216475766365,0.02985468806298376,0.015887684908714048
+Prevalence,Brazil,Both,All ages,Attention-deficit/hyperactivity disorder,Rate,1993,2101.4459901618097,2848.3984946338082,1521.3591820145837
+Prevalence,Brazil,Both,All ages,Attention-deficit/hyperactivity disorder,Number,1994,3292740.161079872,4487968.8785768645,2379719.1638864386
+Prevalence,Brazil,Both,All ages,Attention-deficit/hyperactivity disorder,Percent,1994,0.02169296522354512,0.029500337026136525,0.015637016914498765
+Prevalence,Brazil,Both,All ages,Attention-deficit/hyperactivity disorder,Rate,1994,2071.1726839274124,2822.985748312518,1496.8716286570707
+Prevalence,Brazil,Both,All ages,Attention-deficit/hyperactivity disorder,Number,1995,3318047.8512430135,4526142.568861051,2388762.622851304
+Prevalence,Brazil,Both,All ages,Attention-deficit/hyperactivity disorder,Percent,1995,0.021519098050910422,0.029349503628141902,0.015478572668353325
+Prevalence,Brazil,Both,All ages,Attention-deficit/hyperactivity disorder,Rate,1995,2054.3625745097174,2802.351960319093,1478.9975165472597
+Prevalence,Brazil,Both,All ages,Attention-deficit/hyperactivity disorder,Number,1996,3359251.93417214,4578255.278836937,2434031.3479249543
+Prevalence,Brazil,Both,All ages,Attention-deficit/hyperactivity disorder,Percent,1996,0.02144466901105248,0.029177807319404184,0.015514299570860026
+Prevalence,Brazil,Both,All ages,Attention-deficit/hyperactivity disorder,Rate,1996,2047.6877055847376,2790.7514027563316,1483.7041590874533
+Prevalence,Brazil,Both,All ages,Attention-deficit/hyperactivity disorder,Number,1997,3406111.0261369515,4645889.595656013,2459845.150720164
+Prevalence,Brazil,Both,All ages,Attention-deficit/hyperactivity disorder,Percent,1997,0.021401333899396555,0.02916018889765608,0.01545353347002409
+Prevalence,Brazil,Both,All ages,Attention-deficit/hyperactivity disorder,Rate,1997,2044.4736948533864,2788.6346025203957,1476.489951580877
+Prevalence,Brazil,Both,All ages,Attention-deficit/hyperactivity disorder,Number,1998,3454735.600822748,4711256.714496424,2500554.9695252366
+Prevalence,Brazil,Both,All ages,Attention-deficit/hyperactivity disorder,Percent,1998,0.02136715166957098,0.029093456426068504,0.01548835938446683
+Prevalence,Brazil,Both,All ages,Attention-deficit/hyperactivity disorder,Rate,1998,2042.3227626510866,2785.1355184510658,1478.2434674032545
+Prevalence,Brazil,Both,All ages,Attention-deficit/hyperactivity disorder,Number,1999,3500966.953693098,4765052.561760253,2528923.3587747724
+Prevalence,Brazil,Both,All ages,Attention-deficit/hyperactivity disorder,Percent,1999,0.021320348460153602,0.028979523019862133,0.015387512944738304
+Prevalence,Brazil,Both,All ages,Attention-deficit/hyperactivity disorder,Rate,1999,2038.91823939569,2775.1054803883253,1472.8125202097244
+Prevalence,Brazil,Both,All ages,Attention-deficit/hyperactivity disorder,Number,2000,3540602.3512342987,4829679.3322960045,2559649.205897681
+Prevalence,Brazil,Both,All ages,Attention-deficit/hyperactivity disorder,Percent,2000,0.021239458167140714,0.02901763770332369,0.015348770489131889
+Prevalence,Brazil,Both,All ages,Attention-deficit/hyperactivity disorder,Rate,2000,2031.9907727352772,2771.8062817968025,1469.010934258141
+Prevalence,Brazil,Both,All ages,Attention-deficit/hyperactivity disorder,Number,2001,3576937.1264429977,4873843.635252103,2590429.809299898
+Prevalence,Brazil,Both,All ages,Attention-deficit/hyperactivity disorder,Percent,2001,0.021146404108654253,0.028727896817367992,0.015319011985411723
+Prevalence,Brazil,Both,All ages,Attention-deficit/hyperactivity disorder,Rate,2001,2023.7162980707503,2757.464403271852,1465.5820996500402
+Prevalence,Brazil,Both,All ages,Attention-deficit/hyperactivity disorder,Number,2002,3614419.102225416,4893629.087317425,2628381.317351201
+Prevalence,Brazil,Both,All ages,Attention-deficit/hyperactivity disorder,Percent,2002,0.021066120724255233,0.02845568295465847,0.015332596738071634
+Prevalence,Brazil,Both,All ages,Attention-deficit/hyperactivity disorder,Rate,2002,2016.6576874413713,2730.390261701841,1466.4999379568371
+Prevalence,Brazil,Both,All ages,Attention-deficit/hyperactivity disorder,Number,2003,3650186.016333171,4909973.366703993,2659926.3459482
+Prevalence,Brazil,Both,All ages,Attention-deficit/hyperactivity disorder,Percent,2003,0.020981380385512685,0.028153113656029526,0.015257305370099668
+Prevalence,Brazil,Both,All ages,Attention-deficit/hyperactivity disorder,Rate,2003,2009.1695830468707,2702.593538468993,1464.1015782512754
+Prevalence,Brazil,Both,All ages,Attention-deficit/hyperactivity disorder,Number,2004,3681101.712376622,4909242.168213855,2679123.504893762
+Prevalence,Brazil,Both,All ages,Attention-deficit/hyperactivity disorder,Percent,2004,0.020873891225455615,0.02780602292579363,0.015186914146354424
+Prevalence,Brazil,Both,All ages,Attention-deficit/hyperactivity disorder,Rate,2004,1999.507930678563,2666.611633131891,1455.2514746580696
+Prevalence,Brazil,Both,All ages,Attention-deficit/hyperactivity disorder,Number,2005,3703820.9335120944,4956209.149867635,2681743.0948749166
+Prevalence,Brazil,Both,All ages,Attention-deficit/hyperactivity disorder,Percent,2005,0.02072446654453387,0.027763773028980678,0.014981325369835109
+Prevalence,Brazil,Both,All ages,Attention-deficit/hyperactivity disorder,Rate,2005,1985.8195327388198,2657.2928645374186,1437.828101084864
+Prevalence,Brazil,Both,All ages,Attention-deficit/hyperactivity disorder,Number,2006,3716931.0796851753,4952229.27798276,2708766.995670771
+Prevalence,Brazil,Both,All ages,Attention-deficit/hyperactivity disorder,Percent,2006,0.020527934939215363,0.02734641909823004,0.014942319762181739
+Prevalence,Brazil,Both,All ages,Attention-deficit/hyperactivity disorder,Rate,2006,1967.4820535927815,2621.362091689117,1433.8308505300784
+Prevalence,Brazil,Both,All ages,Attention-deficit/hyperactivity disorder,Number,2007,3723721.2447190355,4952667.092112618,2719508.628118489
+Prevalence,Brazil,Both,All ages,Attention-deficit/hyperactivity disorder,Percent,2007,0.02030581049446686,0.0270183442420146,0.014868694007991503
+Prevalence,Brazil,Both,All ages,Attention-deficit/hyperactivity disorder,Rate,2007,1946.4710622745422,2588.8681086287907,1421.5470225505514
+Prevalence,Brazil,Both,All ages,Attention-deficit/hyperactivity disorder,Number,2008,3727153.4771232326,4995332.56167998,2720685.7083845558
+Prevalence,Brazil,Both,All ages,Attention-deficit/hyperactivity disorder,Percent,2008,0.02007433805652469,0.026866598370236774,0.01469568833230836
+Prevalence,Brazil,Both,All ages,Attention-deficit/hyperactivity disorder,Rate,2008,1924.433304366208,2579.229539938817,1404.7659212492617
+Prevalence,Brazil,Both,All ages,Attention-deficit/hyperactivity disorder,Number,2009,3730134.4769062577,5016012.867080827,2722173.0306546497
+Prevalence,Brazil,Both,All ages,Attention-deficit/hyperactivity disorder,Percent,2009,0.019849041675337555,0.026723340582659433,0.014531288945078024
+Prevalence,Brazil,Both,All ages,Attention-deficit/hyperactivity disorder,Rate,2009,1902.9474485541293,2558.9449781024678,1388.730689276249
+Prevalence,Brazil,Both,All ages,Attention-deficit/hyperactivity disorder,Number,2010,3735643.0793719185,5026486.37210861,2731107.928455058
+Prevalence,Brazil,Both,All ages,Attention-deficit/hyperactivity disorder,Percent,2010,0.01964492116061949,0.026367111135712402,0.014361702599123706
+Prevalence,Brazil,Both,All ages,Attention-deficit/hyperactivity disorder,Rate,2010,1883.5577099850095,2534.416955570491,1377.0585910224638
+Prevalence,Brazil,Both,All ages,Attention-deficit/hyperactivity disorder,Number,2011,3755896.466839694,5062317.678545811,2752650.3342306986
+Prevalence,Brazil,Both,All ages,Attention-deficit/hyperactivity disorder,Percent,2011,0.01952941882284979,0.026256182463551596,0.01431156340340043
+Prevalence,Brazil,Both,All ages,Attention-deficit/hyperactivity disorder,Rate,2011,1872.3591405491898,2523.625680705846,1372.2289896796049
+Prevalence,Brazil,Both,All ages,Attention-deficit/hyperactivity disorder,Number,2012,3794099.6439480963,5118108.977911509,2778988.379733692
+Prevalence,Brazil,Both,All ages,Attention-deficit/hyperactivity disorder,Percent,2012,0.019518172789016054,0.026261013099797243,0.014281635461671103
+Prevalence,Brazil,Both,All ages,Attention-deficit/hyperactivity disorder,Rate,2012,1870.6831387709944,2523.486746755164,1370.1819120909358
+Prevalence,Brazil,Both,All ages,Attention-deficit/hyperactivity disorder,Number,2013,3839299.350194239,5167093.292784782,2795047.3933346434
+Prevalence,Brazil,Both,All ages,Attention-deficit/hyperactivity disorder,Percent,2013,0.019548579559318012,0.02629075956217384,0.014237867495504285
+Prevalence,Brazil,Both,All ages,Attention-deficit/hyperactivity disorder,Rate,2013,1872.9326590174994,2520.6728878166987,1363.5132530661713
+Prevalence,Brazil,Both,All ages,Attention-deficit/hyperactivity disorder,Number,2014,3880698.297748799,5195423.150008435,2816200.3892857125
+Prevalence,Brazil,Both,All ages,Attention-deficit/hyperactivity disorder,Percent,2014,0.019561078207961793,0.026267341015840103,0.014212916009388265
+Prevalence,Brazil,Both,All ages,Attention-deficit/hyperactivity disorder,Rate,2014,1873.8238371875077,2508.648443093112,1359.8231593529295
+Prevalence,Brazil,Both,All ages,Attention-deficit/hyperactivity disorder,Number,2015,3908004.0814825497,5258002.426586658,2823276.161256239
+Prevalence,Brazil,Both,All ages,Attention-deficit/hyperactivity disorder,Percent,2015,0.019499197360948836,0.026200545975398695,0.014083746573631145
+Prevalence,Brazil,Both,All ages,Attention-deficit/hyperactivity disorder,Rate,2015,1868.3340677634965,2513.7397139688355,1349.7485992334246
+Prevalence,Brazil,Both,All ages,Attention-deficit/hyperactivity disorder,Number,2016,3934143.5362030314,5285447.723975262,2853258.108122117
+Prevalence,Brazil,Both,All ages,Attention-deficit/hyperactivity disorder,Percent,2016,0.0194144887664964,0.02613824751982079,0.014122440509060622
+Prevalence,Brazil,Both,All ages,Attention-deficit/hyperactivity disorder,Rate,2016,1862.8957442161927,2502.765336511743,1351.0748496738954
+Prevalence,Brazil,Both,All ages,Attention-deficit/hyperactivity disorder,Number,2017,3952811.3050085506,5447140.077167947,2874338.6029953402
+Prevalence,Brazil,Both,All ages,Attention-deficit/hyperactivity disorder,Percent,2017,0.01930214951859797,0.02658825292971524,0.014079739204404244
+Prevalence,Brazil,Both,All ages,Attention-deficit/hyperactivity disorder,Rate,2017,1854.8614483359856,2556.0770178992575,1348.7868387252643
+Prevalence,Brazil,Both,All ages,Attention-deficit/hyperactivity disorder,Number,2018,3953945.1992598334,5444491.252563184,2877807.255598579
+Prevalence,Brazil,Both,All ages,Attention-deficit/hyperactivity disorder,Percent,2018,0.0191315586934348,0.026353297726116137,0.013965435059049791
+Prevalence,Brazil,Both,All ages,Attention-deficit/hyperactivity disorder,Rate,2018,1839.689888975409,2533.21050322866,1338.9848983076063
+Prevalence,Brazil,Both,All ages,Attention-deficit/hyperactivity disorder,Number,2019,3953653.6040583514,5439649.162294643,2880448.4281178946
+Prevalence,Brazil,Both,All ages,Attention-deficit/hyperactivity disorder,Percent,2019,0.01896763842907329,0.026124153680646505,0.013837088919805791
+Prevalence,Brazil,Both,All ages,Attention-deficit/hyperactivity disorder,Rate,2019,1824.77880786685,2510.628777239592,1329.4491058568058
+Prevalence,Brazil,Both,All ages,Autism spectrum disorders,Number,1990,547892.9315905952,656203.8078177603,452380.79968394054
+Prevalence,Brazil,Both,All ages,Autism spectrum disorders,Percent,1990,0.0038455539490375623,0.004613292522120769,0.0031667740441875653
+Prevalence,Brazil,Both,All ages,Autism spectrum disorders,Rate,1990,368.1197463545651,440.89194322966205,303.9468035330758
+Prevalence,Brazil,Both,All ages,Autism spectrum disorders,Number,1991,556235.7944652629,666301.3888562082,459286.95911554986
+Prevalence,Brazil,Both,All ages,Autism spectrum disorders,Percent,1991,0.0038421865192733522,0.004608414598466231,0.0031633829191475772
+Prevalence,Brazil,Both,All ages,Autism spectrum disorders,Rate,1991,367.4569114253962,440.16773617190205,303.41119563656883
+Prevalence,Brazil,Both,All ages,Autism spectrum disorders,Number,1992,564523.6384037631,676345.3559653023,466142.0187717948
+Prevalence,Brazil,Both,All ages,Autism spectrum disorders,Percent,1992,0.003837981722084937,0.004604237867800006,0.0031601604131641864
+Prevalence,Brazil,Both,All ages,Autism spectrum disorders,Rate,1992,366.7690715083351,439.4192578503632,302.8508706905061
+Prevalence,Brazil,Both,All ages,Autism spectrum disorders,Number,1993,572738.2953526463,686309.2063377922,472931.8051807334
+Prevalence,Brazil,Both,All ages,Autism spectrum disorders,Percent,1993,0.003832982338296902,0.004598719445163627,0.0031574349961617887
+Prevalence,Brazil,Both,All ages,Autism spectrum disorders,Rate,1993,366.0789429860161,438.6704204282606,302.285313815853
+Prevalence,Brazil,Both,All ages,Autism spectrum disorders,Number,1994,580901.223101485,696212.7881350054,479674.79210156226
+Prevalence,Brazil,Both,All ages,Autism spectrum disorders,Percent,1994,0.003827171647863461,0.004591954730556489,0.0031530715926374525
+Prevalence,Brazil,Both,All ages,Autism spectrum disorders,Rate,1994,365.3937712938882,437.9261157713891,301.7211434756808
+Prevalence,Brazil,Both,All ages,Autism spectrum disorders,Number,1995,589069.7678396632,706122.7606508518,486418.1889767851
+Prevalence,Brazil,Both,All ages,Autism spectrum disorders,Percent,1995,0.0038205240734304952,0.004583741023042294,0.003146953070531049
+Prevalence,Brazil,Both,All ages,Autism spectrum disorders,Rate,1995,364.72134793703424,437.19447022054067,301.1648317911842
+Prevalence,Brazil,Both,All ages,Autism spectrum disorders,Number,1996,597237.7748270666,716036.9953312754,493158.34007242956
+Prevalence,Brazil,Both,All ages,Autism spectrum disorders,Percent,1996,0.003812746110208515,0.004575067223928916,0.0031405055336029214
+Prevalence,Brazil,Both,All ages,Autism spectrum disorders,Rate,1996,364.0561865526045,436.4722208443192,300.61284168665856
+Prevalence,Brazil,Both,All ages,Autism spectrum disorders,Number,1997,605423.2750618157,725976.2686413337,499911.4232120621
+Prevalence,Brazil,Both,All ages,Autism spectrum disorders,Percent,1997,0.0038041221689950914,0.004564773013102801,0.0031328168671486394
+Prevalence,Brazil,Both,All ages,Autism spectrum disorders,Rate,1997,363.3974202889358,435.75778150965783,300.0653081097437
+Prevalence,Brazil,Both,All ages,Autism spectrum disorders,Number,1998,613615.6365325327,735926.6964381404,506670.1629674786
+Prevalence,Brazil,Both,All ages,Autism spectrum disorders,Percent,1998,0.0037952574754932444,0.004555587688448916,0.0031250268516385166
+Prevalence,Brazil,Both,All ages,Autism spectrum disorders,Rate,1998,362.74879666929536,435.0549557020484,299.52625223712704
+Prevalence,Brazil,Both,All ages,Autism spectrum disorders,Number,1999,621763.2207137125,745826.5292480031,513392.7744858032
+Prevalence,Brazil,Both,All ages,Autism spectrum disorders,Percent,1999,0.003786554515908731,0.004546201796877684,0.003117501281614202
+Prevalence,Brazil,Both,All ages,Autism spectrum disorders,Rate,1999,362.1069230491593,434.3598023125592,298.99336546688926
+Prevalence,Brazil,Both,All ages,Autism spectrum disorders,Number,2000,629827.32705104,755629.307207083,519983.0204107025
+Prevalence,Brazil,Both,All ages,Autism spectrum disorders,Percent,2000,0.003778337930314447,0.004536986078982062,0.0031106727727197043
+Prevalence,Brazil,Both,All ages,Autism spectrum disorders,Rate,2000,361.4648554187628,433.6640005104985,298.42399530837537
+Prevalence,Brazil,Both,All ages,Autism spectrum disorders,Number,2001,637718.2343449629,765232.0355342733,526416.3619599546
+Prevalence,Brazil,Both,All ages,Autism spectrum disorders,Percent,2001,0.003770219096580033,0.004528049618497421,0.0031040155646587905
+Prevalence,Brazil,Both,All ages,Autism spectrum disorders,Rate,2001,360.80052257003786,432.9437413557634,297.8294931140855
+Prevalence,Brazil,Both,All ages,Autism spectrum disorders,Number,2002,645410.5834860783,774604.975850442,532682.6196095396
+Prevalence,Brazil,Both,All ages,Autism spectrum disorders,Percent,2002,0.0037617882360127405,0.0045189985284069005,0.003096889376371844
+Prevalence,Brazil,Both,All ages,Autism spectrum disorders,Rate,2002,360.1055046277939,432.18924953039647,297.20916955661625
+Prevalence,Brazil,Both,All ages,Autism spectrum disorders,Number,2003,652907.1005584587,783751.4649319153,538784.7354352353
+Prevalence,Brazil,Both,All ages,Autism spectrum disorders,Percent,2003,0.003753036585394482,0.004507930897267634,0.0030898989756756247
+Prevalence,Brazil,Both,All ages,Autism spectrum disorders,Rate,2003,359.3792429009309,431.3998237250111,296.5629415604073
+Prevalence,Brazil,Both,All ages,Autism spectrum disorders,Number,2004,660217.4388469555,792683.3362572727,544731.407464932
+Prevalence,Brazil,Both,All ages,Autism spectrum disorders,Percent,2004,0.0037439067938079443,0.00449741128629276,0.0030825666607026086
+Prevalence,Brazil,Both,All ages,Autism spectrum disorders,Rate,2004,358.6181822980591,430.57126404145293,295.8882569459383
+Prevalence,Brazil,Both,All ages,Autism spectrum disorders,Number,2005,667391.7472776423,801460.069767624,550563.9810570722
+Prevalence,Brazil,Both,All ages,Autism spectrum disorders,Percent,2005,0.0037344471190948474,0.004484591332594754,0.0030748829334128294
+Prevalence,Brazil,Both,All ages,Autism spectrum disorders,Rate,2005,357.82495739498853,429.70626545533236,295.18724777249264
+Prevalence,Brazil,Both,All ages,Autism spectrum disorders,Number,2006,674436.9991765647,810090.8064155974,556289.3351569923
+Prevalence,Brazil,Both,All ages,Autism spectrum disorders,Percent,2006,0.003724888205076796,0.004472928778147621,0.003066846275528903
+Prevalence,Brazil,Both,All ages,Autism spectrum disorders,Rate,2006,356.9995417486333,428.8051323077507,294.46047291765916
+Prevalence,Brazil,Both,All ages,Autism spectrum disorders,Number,2007,681337.6890997941,818554.689732226,561895.0697731738
+Prevalence,Brazil,Both,All ages,Autism spectrum disorders,Percent,2007,0.003715490338752468,0.004461278250526642,0.0030594852423956698
+Prevalence,Brazil,Both,All ages,Autism spectrum disorders,Rate,2007,356.1502079003831,427.8765545923973,293.71492157188607
+Prevalence,Brazil,Both,All ages,Autism spectrum disorders,Number,2008,688100.82141772,826856.8911400196,567408.3683060253
+Prevalence,Brazil,Both,All ages,Autism spectrum disorders,Percent,2008,0.003706168713035302,0.004449618391501292,0.0030513959087811755
+Prevalence,Brazil,Both,All ages,Autism spectrum disorders,Rate,2008,355.28564778075065,426.9292769995439,292.96876767924385
+Prevalence,Brazil,Both,All ages,Autism spectrum disorders,Number,2009,694728.1941160439,834997.3342491193,572906.1526491627
+Prevalence,Brazil,Both,All ages,Autism spectrum disorders,Percent,2009,0.0036969071358717515,0.0044379127246537056,0.0030440261033804006
+Prevalence,Brazil,Both,All ages,Autism spectrum disorders,Rate,2009,354.4191912159223,425.9782205162555,292.27104497017973
+Prevalence,Brazil,Both,All ages,Autism spectrum disorders,Number,2010,701222.2706841192,842976.4447042854,578292.4163561111
+Prevalence,Brazil,Both,All ages,Autism spectrum disorders,Percent,2010,0.0036876405910493334,0.00442693251948387,0.003036121002730196
+Prevalence,Brazil,Both,All ages,Autism spectrum disorders,Rate,2010,353.56499170213436,425.03920958783567,291.5822299695054
+Prevalence,Brazil,Both,All ages,Autism spectrum disorders,Number,2011,707543.235869093,850745.8416595256,583535.3789340922
+Prevalence,Brazil,Both,All ages,Autism spectrum disorders,Percent,2011,0.003679059014346397,0.004415393732027948,0.0030290875212867345
+Prevalence,Brazil,Both,All ages,Autism spectrum disorders,Rate,2011,352.71873351928326,424.10693877718467,290.89933927289906
+Prevalence,Brazil,Both,All ages,Autism spectrum disorders,Number,2012,713664.14368936,858276.0050511442,588614.4519980947
+Prevalence,Brazil,Both,All ages,Autism spectrum disorders,Percent,2012,0.003671413720496041,0.004405999940799085,0.003022218246796022
+Prevalence,Brazil,Both,All ages,Autism spectrum disorders,Rate,2012,351.8725404259281,423.1735066900283,290.2167138246166
+Prevalence,Brazil,Both,All ages,Autism spectrum disorders,Number,2013,719559.4045943109,865430.04910184,593509.174553046
+Prevalence,Brazil,Both,All ages,Autism spectrum disorders,Percent,2013,0.003663865461574441,0.004395445336546194,0.003015696624794127
+Prevalence,Brazil,Both,All ages,Autism spectrum disorders,Rate,2013,351.0240244485465,422.18437668215415,289.53270246840196
+Prevalence,Brazil,Both,All ages,Autism spectrum disorders,Number,2014,725212.9083435159,872017.1904312371,598206.9220972568
+Prevalence,Brazil,Both,All ages,Autism spectrum disorders,Percent,2014,0.003655602267667259,0.004384771379604064,0.003009213882777267
+Prevalence,Brazil,Both,All ages,Autism spectrum disorders,Rate,2014,350.1744094557602,421.05994140673624,288.84863088858685
+Prevalence,Brazil,Both,All ages,Autism spectrum disorders,Number,2015,730703.6100399749,878396.9855232723,602773.5635471587
+Prevalence,Brazil,Both,All ages,Autism spectrum disorders,Percent,2015,0.0036459774649481077,0.004371688293020777,0.0030013224236739543
+Prevalence,Brazil,Both,All ages,Autism spectrum disorders,Rate,2015,349.33393609905164,419.94301409513935,288.17328755069525
+Prevalence,Brazil,Both,All ages,Autism spectrum disorders,Number,2016,735967.7278668178,884498.3886007945,607160.3989640482
+Prevalence,Brazil,Both,All ages,Autism spectrum disorders,Percent,2016,0.003631986840164741,0.004356760771102359,0.0029902542808632427
+Prevalence,Brazil,Both,All ages,Autism spectrum disorders,Rate,2016,348.49545663674047,418.827698767894,287.5026070803633
+Prevalence,Brazil,Both,All ages,Autism spectrum disorders,Number,2017,740841.9737025247,890420.1901344621,611229.5380072024
+Prevalence,Brazil,Both,All ages,Autism spectrum disorders,Percent,2017,0.003617719509876558,0.00434110142172541,0.0029785906211659986
+Prevalence,Brazil,Both,All ages,Autism spectrum disorders,Rate,2017,347.64098518661314,417.8307427444577,286.8201941988026
+Prevalence,Brazil,Both,All ages,Autism spectrum disorders,Number,2018,745291.4534836742,895920.1843839795,614952.3441431504
+Prevalence,Brazil,Both,All ages,Autism spectrum disorders,Percent,2018,0.0036062494199250923,0.004326360701194572,0.0029689915642103198
+Prevalence,Brazil,Both,All ages,Autism spectrum disorders,Rate,2018,346.76888075494026,416.8533506353937,286.12475709922836
+Prevalence,Brazil,Both,All ages,Autism spectrum disorders,Number,2019,749431.3437094294,900974.1491086922,618421.7520979916
+Prevalence,Brazil,Both,All ages,Autism spectrum disorders,Percent,2019,0.0035954791440667936,0.004313454051550159,0.0029598494481035535
+Prevalence,Brazil,Both,All ages,Autism spectrum disorders,Rate,2019,345.89434758482207,415.8377790208511,285.42786510025434
