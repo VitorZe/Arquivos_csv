@@ -1,0 +1,25 @@
+measure_id,measure_name,location_id,location_name,sex_id,sex_name,age_id,age_name,cause_id,cause_name,metric_id,metric_name,year,val,upper,lower
+5,Prevalence,1,Global,3,Both,22,All ages,559,Schizophrenia,1,Number,2019,23597047.07775311,27150677.993367255,20233280.377109002
+5,Prevalence,1,Global,3,Both,22,All ages,559,Schizophrenia,2,Percent,2019,0.003171367262664698,0.0036523502628832256,0.002726867423724144
+5,Prevalence,1,Global,3,Both,22,All ages,559,Schizophrenia,3,Rate,2019,304.97130814911776,350.898896691997,261.49754943584935
+5,Prevalence,1,Global,3,Both,22,All ages,567,Depressive disorders,1,Number,2019,279606278.7362195,310265982.8755903,251599223.30937046
+5,Prevalence,1,Global,3,Both,22,All ages,567,Depressive disorders,2,Percent,2019,0.03757803093924553,0.04169862541145138,0.03377617920738752
+5,Prevalence,1,Global,3,Both,22,All ages,567,Depressive disorders,3,Rate,2019,3613.6679437862626,4009.917951172321,3251.701113666081
+5,Prevalence,1,Global,3,Both,22,All ages,572,Eating disorders,1,Number,2019,13634506.003913464,17454623.609774593,10189106.28694647
+5,Prevalence,1,Global,3,Both,22,All ages,572,Eating disorders,2,Percent,2019,0.0018324331472216882,0.0023411758698371862,0.0013685488910322255
+5,Prevalence,1,Global,3,Both,22,All ages,572,Eating disorders,3,Rate,2019,176.2141304494284,225.58582766663278,131.68533600672663
+5,Prevalence,1,Global,3,Both,22,All ages,570,Bipolar disorder,1,Number,2019,39546460.678662874,46811444.95088513,32959760.674074467
+5,Prevalence,1,Global,3,Both,22,All ages,570,Bipolar disorder,2,Percent,2019,0.005314936387156986,0.006293689334876664,0.004424898426645699
+5,Prevalence,1,Global,3,Both,22,All ages,570,Bipolar disorder,3,Rate,2019,511.1036057223419,604.9972081668286,425.9762374475654
+5,Prevalence,1,Global,3,Both,22,All ages,575,Autism spectrum disorders,1,Number,2019,28324938.64773063,33811271.08414722,23500643.583813794
+5,Prevalence,1,Global,3,Both,22,All ages,575,Autism spectrum disorders,2,Percent,2019,0.0038067581103415557,0.004544471842186432,0.003150677392855769
+5,Prevalence,1,Global,3,Both,22,All ages,575,Autism spectrum disorders,3,Rate,2019,366.07519424690844,436.98126883165367,303.72537684424117
+5,Prevalence,1,Global,3,Both,22,All ages,579,Conduct disorder,1,Number,2019,40109230.02431622,51978477.27410424,29038242.591492362
+5,Prevalence,1,Global,3,Both,22,All ages,579,Conduct disorder,2,Percent,2019,0.005390470926241878,0.006985650476208356,0.00389463935417227
+5,Prevalence,1,Global,3,Both,22,All ages,579,Conduct disorder,3,Rate,2019,518.376910003365,671.7766065241145,375.2940272695383
+5,Prevalence,1,Global,3,Both,22,All ages,571,Anxiety disorders,1,Number,2019,301390390.8486138,356004349.12585795,252625879.0006677
+5,Prevalence,1,Global,3,Both,22,All ages,571,Anxiety disorders,2,Percent,2019,0.04050554870496629,0.047799741215632546,0.03393756944867855
+5,Prevalence,1,Global,3,Both,22,All ages,571,Anxiety disorders,3,Rate,2019,3895.2086444465303,4601.046550525684,3264.969745464033
+5,Prevalence,1,Global,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,1,Number,2019,84708968.8131143,111261924.07716788,62461820.56399702
+5,Prevalence,1,Global,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,2,Percent,2019,0.011384385464781864,0.01494872276209206,0.008392525942397273
+5,Prevalence,1,Global,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,3,Rate,2019,1094.7897398252833,1437.963590155818,807.264699858855
